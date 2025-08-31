@@ -1,6 +1,3 @@
-# Siri-Codepath-Prework
-For the ios Developement course
-
 # Prework - *IOS Development*
 
 Submitted by: **Sai Siri Chittineni**
