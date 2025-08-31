@@ -13,8 +13,8 @@ Time spent: **3** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
 
 ## App Brainstroming
 **My favourite Apps and their features which i like**
@@ -29,6 +29,7 @@ The following **required** functionality is completed:
    * Reels section
 
 **App Idea**
+
 BlinkBond is a tiny, intimate app for long-distance couples: tap once to send a 1-second “pulse” — a colored glow with a soft haptic — that your partner feels and sees instantly. When both of you send at least one pulse in a day, your Heartbeat Streak grows and paints a simple heatmap of shared days. Pair with a 6-digit Bond Code, pick colors or emojis that mean something to you, and set quiet hours so nudges never arrive at the wrong time. Pulses are ephemeral (no chat logs), but you can pin one special pulse per day to a private scrapbook if you want. A lightweight Apple Watch companion makes sending a pulse as quick as a wrist tap. It’s not a messenger; it’s a tiny ritual that says “I’m here” — fast, private, and sweet.
   
 
